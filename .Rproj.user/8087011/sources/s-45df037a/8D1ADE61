@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548150581776.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8D1ADE61",
+    "lastKnownWriteTime" : 1548160236,
+    "last_content_update" : 1548160236698,
+    "path" : "~/thesis/metaview/global.R",
+    "project_path" : "global.R",
+    "properties" : {
+        "cursorPosition" : "1,35",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

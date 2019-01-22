@@ -1,0 +1,12 @@
+name: metaview
+title: metaview
+username:
+account: metaview
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 656538
+bundleId: 1828959
+url: https://metaview.shinyapps.io/metaview/
+when: 1548162393.24379
+asMultiple: FALSE
+asStatic: FALSE
