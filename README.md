@@ -6,7 +6,8 @@ As an M.Sc student in Ido Amit's Lab, I developed this Shiny App with the aim of
 The application allows users to adjust gene markers and their threshold values for specific cell types to create a colorize table, which serves as a set of rules for annotating cell types on a particular dataset.  
 I believed that the widespread use of these "colorize tables" would aid in the development of an effective multi-class classifier for scRNAseq data.
 
-Example for an easy and quick exploration with 2 different "colorize tables":
+Example for an easy and quick exploration with 2 different "colorize tables":  
+
 Cell types as described at [Cohen et al., Cell 2018 (lung scRNA-seq)](https://www.cell.com/cell/fulltext/S0092-8674(18)31181-4):  
 ![image](https://user-images.githubusercontent.com/26302833/232308341-e45f0d04-5081-4668-96be-d15207cf7850.png)
 
