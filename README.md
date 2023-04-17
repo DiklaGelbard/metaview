@@ -1,4 +1,4 @@
-# metaview
+# metaview - Analyze your single cell RNAseq data and annotate cell types
 Click [here](https://metaview.shinyapps.io/metaview/) to open the app.
 
 [Metaview](https://metaview.shinyapps.io/metaview/) is a proof-of-concept (POC) for an interactive tool designed for annotating cell types on Single Cell RNAseq data (using [metacell](https://tanaylab.github.io/metacell/index.html) package by Amos Tanay).  
